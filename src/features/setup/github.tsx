@@ -38,7 +38,7 @@ export function GithubSetup() {
         // "/api/v1/auth/register",
         {
           "email": "first_user_@mail.com",
-          "username": "second_user",
+          "username": "first_user",
           "password": "password@123"
         }
       )
